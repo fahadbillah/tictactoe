@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+
+#game {
+	width: 320px;
+	height: 480px;
+	margin: auto;	
+}
