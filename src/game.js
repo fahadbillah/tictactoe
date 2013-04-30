@@ -1,2 +1,2 @@
 // JavaScript Document
-$('#game').text('my first game work starts here.')
+//$('#game').text('my first game work starts here.')
